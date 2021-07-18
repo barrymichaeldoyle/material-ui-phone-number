@@ -1,5 +1,5 @@
 # material-ui-phone-number
-Highly customizable phone input component with auto formatting. Based on the wonderful [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2) package.
+Highly customizable phone input component with auto formatting. Based on the wonderful [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2) package and forked from the [@alexplumb version](https://github.com/alexplumb/material-ui-phone-number).
 
 It looks like this, but in Material Design:
 
@@ -218,5 +218,4 @@ Country data object not returns from onKeyDown event
 ## License
 
 Based on [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2)
-
 Based on [react-phone-input](https://github.com/razagill/react-phone-input) using [MIT](https://opensource.org/licenses/MIT)

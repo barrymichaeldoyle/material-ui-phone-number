@@ -10,7 +10,7 @@ Uses @material-ui/core/TextField for rendering the phone input
 ## Installation
 
 ```shell-script
-npm install material-ui-phone-number --save
+npm install https://github.com/barrymichaeldoyle/material-ui-phone-number/tarball/174ed5b6e48d82cc9d2174aa1672aec297f3d888 --save
 ```
 
 ## Usage

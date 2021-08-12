@@ -1,4 +1,6 @@
 # material-ui-phone-number
+NOTE: Updated to support additional countries and to work with MaterialUI v5!
+
 Highly customizable phone input component with auto formatting. Based on the wonderful [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2) package and forked from the [@alexplumb version](https://github.com/alexplumb/material-ui-phone-number).
 
 It looks like this, but in Material Design:
